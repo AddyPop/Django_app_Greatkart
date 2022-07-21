@@ -1,0 +1,1 @@
+<h2>Logout Page</h2>
