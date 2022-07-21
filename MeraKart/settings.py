@@ -142,3 +142,9 @@ EMAIL_PORT = 587
 EMAIL_HOST_USER = "addy.pophali@gmail.com"
 EMAIL_HOST_PASSWORD = 'Addy@7799'
 EMAIL_USE_TLS = True
+
+
+
+"""
+Adding this content to just check if its going to git hub repo
+"""
